@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bc39297dd74db4675a49852f71939580
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nunito Sans 12pt ExtraLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 214974694b1674956a6b944498898f1b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
